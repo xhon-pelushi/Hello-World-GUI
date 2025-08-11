@@ -15,7 +15,7 @@ See `python/hello_world_gui.py` for a working example.
 
 ## Issues
 
-Check the issues tab for open requests for new languages. If your favorite language is missing, feel free to open an issue or submit a pull request!
+Check the issues tab for open requests for new languages. If your favorite language is missing, feel free to open an issue or submit a pull request.
 
 ---
 
