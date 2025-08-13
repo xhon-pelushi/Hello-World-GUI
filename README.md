@@ -1,6 +1,6 @@
 # Hello World GUI Languages
 
-This repository collects 'Hello World' GUI programs in as many programming languages as possible! Each example should animate the text 'Hello World' moving from left to right in a window. The goal is to help beginners learn GUI basics and animation in their favorite language.
+This repository collects 'Hello World GUI programs in as many programming languages as possible! Each example should animate the text 'Hello World' moving from left to right in a window. The goal is to help beginners learn GUI basics and animation in their favorite language.
 
 ## How to Contribute
 
